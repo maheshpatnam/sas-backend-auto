@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sas.sdet.techtest.repository.RepositoryClassTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.226 s - in sas.sdet.techtest.repository.RepositoryClassTest
