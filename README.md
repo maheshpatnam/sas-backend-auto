@@ -12,8 +12,8 @@ Good luck!
 
 ![cat pic](https://i.pinimg.com/736x/fe/bb/d4/febbd478ad268919fbf80b0b5e069165.jpg)
 
-# clone repo using following github link
-
+# Clone repo using following github link
+- `https://github.com/maheshpatnam/sas-backend-auto`
 
 # Installation
 - open terminal and run below command
